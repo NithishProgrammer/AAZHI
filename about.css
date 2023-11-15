@@ -1,0 +1,21 @@
+body{
+
+	background: black;
+}
+
+.about{
+
+	color: yellow;
+	font-size: 40px;
+}
+h3{
+	color: white;
+}
+h4{
+	color: yellow;
+}
+
+.location{
+
+	background: grey;
+}
